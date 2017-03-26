@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPCommerciaux", "TPCommerciaux.csproj", "{05DCC569-7F9D-4E71-88DC-048A1825675A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCommercial", "TestCommercial\TestCommercial.csproj", "{273805F9-477F-4896-A94D-560D0D655B43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DEBBCD51-98B9-49A6-B771-54572DFFCBBF}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TPCommerciaux.vsmdi = TPCommerciaux.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = TPCommerciaux.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Debug|x86.ActiveCfg = Debug|x86
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Debug|x86.Build.0 = Debug|x86
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Release|Any CPU.ActiveCfg = Release|x86
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Release|x86.ActiveCfg = Release|x86
+		{05DCC569-7F9D-4E71-88DC-048A1825675A}.Release|x86.Build.0 = Release|x86
+		{273805F9-477F-4896-A94D-560D0D655B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273805F9-477F-4896-A94D-560D0D655B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273805F9-477F-4896-A94D-560D0D655B43}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{273805F9-477F-4896-A94D-560D0D655B43}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{273805F9-477F-4896-A94D-560D0D655B43}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{273805F9-477F-4896-A94D-560D0D655B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273805F9-477F-4896-A94D-560D0D655B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273805F9-477F-4896-A94D-560D0D655B43}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{273805F9-477F-4896-A94D-560D0D655B43}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{273805F9-477F-4896-A94D-560D0D655B43}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

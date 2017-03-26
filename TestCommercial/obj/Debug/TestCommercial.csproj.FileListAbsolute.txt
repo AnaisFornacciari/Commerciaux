@@ -1,0 +1,7 @@
+E:\SLAM4\TPCommerciaux\TestCommercial\bin\Debug\TestCommercial.dll
+E:\SLAM4\TPCommerciaux\TestCommercial\bin\Debug\TestCommercial.pdb
+E:\SLAM4\TPCommerciaux\TestCommercial\bin\Debug\TPCommerciaux.exe
+E:\SLAM4\TPCommerciaux\TestCommercial\bin\Debug\TPCommerciaux.pdb
+E:\SLAM4\TPCommerciaux\TestCommercial\obj\Debug\TestCommercial.csprojResolveAssemblyReference.cache
+E:\SLAM4\TPCommerciaux\TestCommercial\obj\Debug\TestCommercial.dll
+E:\SLAM4\TPCommerciaux\TestCommercial\obj\Debug\TestCommercial.pdb

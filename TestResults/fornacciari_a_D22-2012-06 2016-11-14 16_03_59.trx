@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0fe31ae4-2900-4f8c-9695-869e7dac6f69" name="fornacciari_a@D22-2012-06 2016-11-14 16:03:59" runUser="VOILLAUME\fornacciari_a" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="31c24f34-a090-4d27-9f36-5cda8314e81a">
+    <Description>Il s'agit des paramètres de test par défaut pour une série de tests locale.</Description>
+    <Deployment enabled="false" runDeploymentRoot="fornacciari_a_D22-2012-06 2016-11-14 16_03_59">
+      <DeploymentItem filename="E:\SLAM4\TPCommerciaux\bin\Debug\TPCommerciaux.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-11-14T16:03:59.1292708+01:00" queuing="2016-11-14T16:03:59.2292718+01:00" start="2016-11-14T16:03:59.3102736+01:00" finish="2016-11-14T16:04:06.2643669+01:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="1" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ajouterNoteFraisTest" storage="e:\slam4\tpcommerciaux\testcommercial\bin\debug\testcommercial.dll" id="cbdb1ba5-e06d-2d8c-19ec-8bb8ed4515e1">
+      <Execution id="d19b07e4-6b36-4e40-b517-9deaec81e71f" />
+      <TestMethod codeBase="E:/SLAM4/TPCommerciaux/TestCommercial/bin/Debug/TestCommercial.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCommercial.CommercialTest, TestCommercial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ajouterNoteFraisTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Les résultats ne figurent pas dans une liste" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Tous les résultats chargés" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="cbdb1ba5-e06d-2d8c-19ec-8bb8ed4515e1" executionId="d19b07e4-6b36-4e40-b517-9deaec81e71f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d19b07e4-6b36-4e40-b517-9deaec81e71f" testId="cbdb1ba5-e06d-2d8c-19ec-8bb8ed4515e1" testName="ajouterNoteFraisTest" computerName="D22-2012-06" startTime="2016-11-14T16:03:59.3512759+01:00" endTime="2016-11-14T16:04:06.2343666+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d19b07e4-6b36-4e40-b517-9deaec81e71f">
+      <Output>
+        <ErrorInfo>
+          <Message>Le processus Agent s'est arrêté pendant l'exécution du test.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

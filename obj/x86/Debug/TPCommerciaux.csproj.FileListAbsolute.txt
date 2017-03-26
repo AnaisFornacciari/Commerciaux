@@ -1,0 +1,4 @@
+E:\SLAM4\TPCommerciaux\bin\Debug\TPCommerciaux.exe
+E:\SLAM4\TPCommerciaux\bin\Debug\TPCommerciaux.pdb
+E:\SLAM4\TPCommerciaux\obj\x86\Debug\TPCommerciaux.exe
+E:\SLAM4\TPCommerciaux\obj\x86\Debug\TPCommerciaux.pdb
